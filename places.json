@@ -3219,7 +3219,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 10:30 PM",
+    "open_status": "Closed now Opens tomorrow at 8:00 AM",
     "detail_url": "https://hmsusa.org/certified-detail/shahirizada-fresh-meat-market",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -4742,7 +4742,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 11:30 PM",
+    "open_status": "Closed now Opens tomorrow at 11:30 AM",
     "detail_url": "https://hmsusa.org/certified-detail/the-port-of-peri-peri-east-rutherford",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -6724,7 +6724,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 10:30 PM",
+    "open_status": "Closed now Opens tomorrow at 11:30 AM",
     "detail_url": "https://hmsusa.org/certified-detail/kabab-mahal",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -7139,7 +7139,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 10:30 PM",
+    "open_status": "Closed now Opens tomorrow at 11:00 AM",
     "detail_url": "https://hmsusa.org/certified-detail/burger-zone",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -7348,7 +7348,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 10:30 PM",
+    "open_status": "Closed now Opens tomorrow at 9:00 AM",
     "detail_url": "https://hmsusa.org/certified-detail/jbeez",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -14507,48 +14507,6 @@
     "source_url": "https://hmsusa.org/certified-listing"
   },
   {
-    "id": "hms-509",
-    "certifier": "HMS",
-    "type": "restaurant",
-    "name": "Zaiqa House",
-    "address": "1709 Belt Line Rd, Garland, TX 75044",
-    "city": "Garland",
-    "county": "Dallas County",
-    "chapter": "",
-    "state": "TX",
-    "state_name": "Texas",
-    "country": "United States Of America",
-    "latitude": 32.944958871290254,
-    "longitude": -96.65202371300754,
-    "geocode_source": "",
-    "mappable": true,
-    "phone": "(469) 781-5637",
-    "website": "",
-    "status": "Certified",
-    "status_reason": "",
-    "is_live": true,
-    "expires": "2026-12-31",
-    "products": [
-      "Chicken",
-      "Lamb",
-      "Goat",
-      "Beef"
-    ],
-    "caveats": [],
-    "certification_scope": [],
-    "other_items": [],
-    "products_raw": "Chicken Lamb Goat Beef",
-    "needs_review": false,
-    "coord_suspect": false,
-    "description": "",
-    "photo_url": "",
-    "hours": {},
-    "hours_raw": "",
-    "open_status": "Open now Closes at 11:00 PM",
-    "detail_url": "https://hmsusa.org/certified-detail/zaiqa-house",
-    "source_url": "https://hmsusa.org/certified-listing"
-  },
-  {
     "id": "hms-508",
     "certifier": "HMS",
     "type": "restaurant",
@@ -15433,7 +15391,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 10:30 PM",
+    "open_status": "Closed now Opens tomorrow at 11:30 AM",
     "detail_url": "https://hmsusa.org/certified-detail/byrds-hot-chicken-lombard",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -20592,7 +20550,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 11:30 PM",
+    "open_status": "Closed now Opens tomorrow at 10:30 AM",
     "detail_url": "https://hmsusa.org/certified-detail/moho-mexican-grill",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -21651,7 +21609,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 11:30 PM",
+    "open_status": "Closed now Opens tomorrow at 12:00 PM",
     "detail_url": "https://hmsusa.org/certified-detail/azka-events-catering-addys-bbq-elmont-party-hall",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -22608,7 +22566,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 10:30 PM",
+    "open_status": "Closed now Opens tomorrow at 12:00 PM",
     "detail_url": "https://hmsusa.org/certified-detail/ali-nihari",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -22810,7 +22768,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 10:20 PM",
+    "open_status": "Closed now Opens tomorrow at 11:00 AM",
     "detail_url": "https://hmsusa.org/certified-detail/la-charanga-mexican-halal",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -23344,7 +23302,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 11:30 PM",
+    "open_status": "Closed now Opens tomorrow at 11:00 AM",
     "detail_url": "https://hmsusa.org/certified-detail/hyderabad-house-jc",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -24324,7 +24282,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 10:30 PM",
+    "open_status": "Closed now Opens tomorrow at 11:00 AM",
     "detail_url": "https://hmsusa.org/certified-detail/hussain-catering",
     "source_url": "https://hmsusa.org/certified-listing"
   },
@@ -25206,7 +25164,7 @@
     "photo_url": "",
     "hours": {},
     "hours_raw": "",
-    "open_status": "Open now Closes at 11:30 PM",
+    "open_status": "Closed now Opens tomorrow at 12:00 PM",
     "detail_url": "https://hmsusa.org/certified-detail/addys-bbq",
     "source_url": "https://hmsusa.org/certified-listing"
   },
